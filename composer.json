@@ -1,0 +1,12 @@
+{
+  "name": "consulting/consulting",
+  "description": "Consulting query service",
+  "require": {
+    "php": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Consulting\\": "src/"
+    }
+  }
+}
